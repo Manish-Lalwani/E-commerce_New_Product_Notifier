@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup as soup
 import pickle
 import os
-from my_beautify import my_beautify as mb
+import my_beautify as mb
 import time
 
 
