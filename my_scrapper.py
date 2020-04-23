@@ -23,9 +23,9 @@ class Scrapper:
         mb.fname_print("request_initiate")
 
         if proxy==None:
-            response = requests.get('https://www.doubleclutch.it/it/scarpe-basket/jordan')
+            response = requests.get('https://www.Cannot mention the sitename.com')
         else:
-            response = requests.get('https://www.doubleclutch.it/it/scarpe-basket/jordan',proxies=proxy)
+            response = requests.get('https://www.Cannot mention the sitename.com',proxies=proxy)
 
 
         with open('response.html', 'wb') as fp:
