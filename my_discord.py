@@ -1,6 +1,6 @@
 import discord
 from discord import Webhook, RequestsWebhookAdapter, File
-from my_beautify import my_beautify as mb
+import my_beautify as mb
 
 
 class DiscordWebhook1:
