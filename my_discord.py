@@ -6,8 +6,8 @@ import my_beautify as mb
 class DiscordWebhook1:
     def __init__(self):
         mb.fname_print("Constructor")
-        self.webhook_id = 701461143214096504
-        self.webhook_token = 'ZclvwnGvQEbn2Y2XugIlhIcdJEVFJX5tRkJUe6GS-jdfE9NtYX-lBY38ceSMKn01xB-z'
+        self.webhook_id = "ID Here"
+        self.webhook_token = 'Token here'
         self.webhook_obj = None
         self.embed = None
         self.product_list = None
